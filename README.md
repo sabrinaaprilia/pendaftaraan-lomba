@@ -1,2 +1,2 @@
 # pendaftaraan-lomba
-Aplikasi untuk pendaftaran lombak
+Aplikasi untuk pendaftaran lomba
